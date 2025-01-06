@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+footer {
+	grid-area: footer;
+}
+
 ol, ul {
 	list-style: none;
 }
